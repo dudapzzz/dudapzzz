@@ -37,5 +37,5 @@ Em breve, tenho interesse em fazer projetos para praticar análise de dados.
 
 ## Contato
 
-- LinkedIn: [Meu perfil](www.linkedin.com/in/eduarda-padilha-zorzo-4291482b3)
-- E-mail: [Meu contato](eduarda.zorzo@acad.ufsm.br)
+- LinkedIn: [Meu perfil](https://www.linkedin.com/in/eduarda-padilha-zorzo-4291482b3/)
+- E-mail: [Meu contato](mailto:eduarda.zorzo@acad.ufsm.br)
